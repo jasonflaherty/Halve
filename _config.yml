@@ -1,11 +1,11 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: http://taylantatli.me/Halve
+title: Jason Flaherty
+description: Web Developer for Digital Visions
+url: http://jasonflaherty.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
-# Left Block Images
+# LeftB lock Images
 background:
   homepage: images/home.png                           # this image will be shown on homepage's left block
   post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
@@ -31,10 +31,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            jasonjflaherty
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             jasonflaherty
+stackoverflow:     users/350421/jasonflaherty
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
